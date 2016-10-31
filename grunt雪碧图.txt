@@ -1,4 +1,4 @@
-http://www.open-open.com/lib/view/open1424699095296.html
+﻿http://www.open-open.com/lib/view/open1424699095296.html
 
 
 https://github.com/laoshu133/grunt-css-sprite
@@ -39,3 +39,6 @@ http://fis.baidu.com/
 
 
 development第二遍编辑。
+
+
+github desktop
